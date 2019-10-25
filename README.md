@@ -1,4 +1,4 @@
 # Spring and Hibernate trials
 # Here,  I will try to record my learning through Spring and Hibernate, and hopefully Maven.
 # Deadline is till the end of this year.
-# 70 Days left till the end of 2019
+# 69 Days left till the end of 2019
