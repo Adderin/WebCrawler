@@ -9,5 +9,4 @@ class CrawlerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }

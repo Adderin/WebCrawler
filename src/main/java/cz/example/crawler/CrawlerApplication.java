@@ -8,8 +8,8 @@ import org.springframework.context.annotation.PropertySource;
 @PropertySource(value = "/application.properties")
 public class CrawlerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CrawlerApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CrawlerApplication.class, args);
+    }
 
 }
