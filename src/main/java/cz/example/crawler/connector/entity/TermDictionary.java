@@ -1,4 +1,4 @@
-package cz.example.crawler.entity;
+package cz.example.crawler.connector.entity;
 
 import javax.persistence.*;
 
@@ -6,7 +6,7 @@ import javax.persistence.*;
 public class TermDictionary {
 
     @Id
-    @GeneratedValue(strategy=GenerationType.IDENTITY)
+    @GeneratedValue(strategy=GenerationType.AUTO)
     @Column(name = "TERM_ID")
     private Integer termId;
 

@@ -1,6 +1,5 @@
 package cz.example.crawler.service;
 
-import cz.example.crawler.controller.CrawlerImpl;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

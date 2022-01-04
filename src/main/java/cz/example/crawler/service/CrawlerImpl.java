@@ -1,4 +1,4 @@
-package cz.example.crawler.controller;
+package cz.example.crawler.service;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;

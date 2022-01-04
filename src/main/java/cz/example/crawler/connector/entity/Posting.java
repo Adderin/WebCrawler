@@ -1,8 +1,8 @@
-package cz.example.crawler.entity;
+package cz.example.crawler.connector.entity;
 
 import javax.persistence.*;
 
-@Entity
+@Embeddable
 public class Posting {
 
     @ManyToOne
